@@ -1,0 +1,12 @@
+# Repo code-charlie séparé (son propre .git)
+code-charlie/
+
+# Sources Notion (brut, pas publié)
+notion-doc/
+
+# Fichiers internes (audit, failles, plan)
+_internal/
+
+# Config locale Claude Code
+.claude/
+docs-v2/.claude/
