@@ -1,11 +1,11 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: kyde Docs
+  title: Charlie Platform — Documentation technique
   structure:
     - type: space
       key: space-1
-      title: Untitled
-      path: untitled
+      title: Documentation technique
+      path: docs-v2
       default: true
       content:
         directory: ./docs-v2
